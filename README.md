@@ -1,4 +1,4 @@
 ### Hi there I'am Nuh 👋
 
 
-- 🔭 I’m currently working on  ![](linux.png=100x100) ![](cloud.png=100x100) ![](db.png=100x100)
+- 🔭 I’m currently working on  ![](linux.png | with=100) ![](cloud.png | with=100) ![](db.png | with=100)
