@@ -1,9 +1,8 @@
 <div align="center">
-
 ### Hi there I'am Nuh 👋</br>
 </div>
 
-* I am [Nuh Yurduseven](https://www.linkedin.com/in/nuh-yurduseven/) :blush:.</a>
+  * I am [Nuh Yurduseven](https://www.linkedin.com/in/nuh-yurduseven/) :blush:.</a>
   * I'm a 'Computer Scientist', enthuasist of tech, opensource lover. </a>
   * now I am working on Native Android, unix/linux and topics about data engineering.</a>
 
