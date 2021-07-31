@@ -16,7 +16,7 @@
 
 **📫 Reach me at:**<br>
 
-<a href="https://twitter.com/Nuh_Yurduseven">
+<a href="https://twitter.com/noah_the_turk">
   <img  alt="noaahhh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nuh-yurduseven/">
@@ -25,7 +25,7 @@
 <a href="https://dev.to/noaahhh">
   <img  alt="'noaahhh's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/dev-dot-to.svg" />
 </a>
-<a href="https://medium.com/@nuh.yrdsvn">
+<a href="https://medium.com/@nuh.yurduseven">
   <img  alt="'noaahhh's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/medium.svg" />
 </a>
 </div>
