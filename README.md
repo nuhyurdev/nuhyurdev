@@ -25,7 +25,7 @@
 <a href="https://dev.to/noaahhh">
   <img  alt="'noaahhh's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/dev-dot-to.svg" />
 </a>
-<a href="https://medium.com/@nuh.yurduseven">
+<a href="https://nuh-yurduseven.medium.com">
   <img  alt="'noaahhh's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/medium.svg" />
 </a>
 </div>
