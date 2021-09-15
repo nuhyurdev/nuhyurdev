@@ -16,19 +16,19 @@
 
 **📫 Reach me at:**<br>
 
-<a href="https://twitter.com/noah_the_turk">
+<a target="_blank" href="https://twitter.com/noah_the_turk">
   <img  alt="noaahhh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/nuh-yurduseven/">
+<a target="_blank" href="https://www.linkedin.com/in/nuh-yurduseven/">
   <img  alt="noaahhh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://dev.to/noaahhh">
+<a target="_blank" href="https://dev.to/noaahhh">
   <img  alt="'noaahhh's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/dev-dot-to.svg" />
 </a>
-<a href="https://nuh-yurduseven.medium.com">
+<a target="_blank" href="https://nuh-yurduseven.medium.com">
   <img  alt="'noaahhh's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/medium.svg" />
 </a>
- <a href="https://noaahhhtech.hashnode.dev">
+ <a target="_blank" href="https://noaahhhtech.hashnode.dev">
   <img  alt="'noaahhh's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/hashnode.svg" />
 </a>
 
