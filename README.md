@@ -28,4 +28,8 @@
 <a href="https://nuh-yurduseven.medium.com">
   <img  alt="'noaahhh's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/medium.svg" />
 </a>
+ <a href="https://noaahhhtech.hashnode.dev">
+  <img  alt="'noaahhh's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/hashnode.svg" />
+</a>
+
 </div>
