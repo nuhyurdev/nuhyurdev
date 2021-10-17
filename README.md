@@ -2,29 +2,30 @@
  Hi there I'am Nuh 👋</br>
 </div>
 
-  * I am [Nuh Yurduseven](https://www.linkedin.com/in/nuh-yurduseven/) :blush:.</a>
-  * I'm a 'Computer Scientist', enthuasist of tech, opensource lover. </a>
-  * now I am working on Data Science and AI,GNU/linux and topics about data engineering.</a>
+  ✔  I am [Nuh Yurduseven](https://www.linkedin.com/in/nuh-yurduseven/) :blush:.</br> 
+  ✔  I'm a 'Computer Scientist', enthuasist of tech, opensource lover.</br>
+  ✔  now I am working on Data Science and AI,GNU/linux and topics about data engineering.</br>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png"/></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/r/r.png"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
 <code><img height="40" width="40" src=https://codingnconcepts.com/img/logo/gohugo.png></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/nodejs/nodejs.png"></code>
 <code><img height="40" width="40" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png"></code>
 #
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/docker/docker.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1200px-Fedora_logo.svg.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/postgresql/postgresql.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
+<code><img height="40" width="40"  src="https://img.icons8.com/color/48/000000/mongodb.png" ></code>
 
 
  <details open="">
@@ -48,6 +49,9 @@
 ![ 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑 ](https://activity-graph.herokuapp.com/graph?username=noaahhh&theme=react-dark&hide_border=true&area=true)
 
 #
+
+
+
 <div align="center">
 📫 Reach me at:
  <br>
@@ -59,10 +63,10 @@
   <img  alt="noaahhh's Linkdein" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a target="_blank" href="https://dev.to/noaahhh"  target="_blank" rel="noopener noreferrer">
-  <img  alt="'noaahhh's Dev.to" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/dev-dot-to.svg" />
+  <img  alt="'noaahhh's Dev.to" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" />
 </a>
 <a target="_blank" href="https://nuh-yurduseven.medium.com"  target="_blank" rel="noopener noreferrer">
-  <img  alt="'noaahhh's medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/medium.svg" />
+  <img  alt="'noaahhh's medium" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
 </a>
  <a target="_blank" href="https://noaahhhtech.hashnode.dev"  target="_blank" rel="noopener noreferrer">
   <img  alt="'noaahhh's medium" width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
