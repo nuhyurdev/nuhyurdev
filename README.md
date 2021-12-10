@@ -68,7 +68,7 @@
 <a target="_blank" href="https://nuh-yurduseven.medium.com"  target="_blank" rel="noopener noreferrer">
   <img  alt="'noaahhh's medium" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
 </a>
- <a target="_blank" href="https://noaahhhtech.hashnode.dev"  target="_blank" rel="noopener noreferrer">
+ <a target="_blank" href="https://nuhyurduseven.hashnode.dev"  target="_blank" rel="noopener noreferrer">
   <img  alt="'noaahhh's medium" width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
 </a>
   <a target="_blank" href="https://hackernoon.com/u/noaahhh"  target="_blank" rel="noopener noreferrer">
