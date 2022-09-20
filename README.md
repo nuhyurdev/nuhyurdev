@@ -47,16 +47,14 @@
 <br>
 
 #
-
+[![nuhyurduseven's github activity graph](https://activity-graph.herokuapp.com/graph?username=nuhyurduseven)](https://github.com/nuhyurduseven/nuhyurduseven)
 
 
 <div align="center">
 📫 Reach me at:
  <br>
 
-<a href="https://twitter.com/noah_the_turk"  target="_blank" rel="noopener noreferrer">
-  <img  alt="noaahhh's Twitter" width="30px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />
-</a>
+
 <a target="_blank" href="https://www.linkedin.com/in/nuh-yurduseven/"  target="_blank" rel="noopener noreferrer">
   <img  alt="noaahhh's Linkdein" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
