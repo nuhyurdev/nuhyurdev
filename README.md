@@ -46,8 +46,7 @@
 </details>
 <br>
 
-#
-[![nuhyurduseven's github activity graph](https://activity-graph.herokuapp.com/graph?username=nuhyurduseven)](https://github.com/nuhyurduseven/nuhyurduseven)
+
 
 
 <div align="center">
