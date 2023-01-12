@@ -57,6 +57,9 @@
 <a target="_blank" href="https://www.linkedin.com/in/nuh-yurduseven/"  target="_blank" rel="noopener noreferrer">
   <img  alt="noaahhh's Linkdein" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
+ <a target="_blank" href="https://www.twitter.com/nuhyurdAI/"  target="_blank" rel="noopener noreferrer">
+  <img  alt="noaahhh's Linkdein" width="30px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
+</a>
 <a target="_blank" href="https://dev.to/noaahhh"  target="_blank" rel="noopener noreferrer">
   <img  alt="'noaahhh's Dev.to" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" />
 </a>
