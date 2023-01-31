@@ -36,11 +36,11 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/nuhyurduseven">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuhyurduseven&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <a href="https://github.com/nuhyurdev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuhyurdev&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/nuhyurduseven">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhyurduseven&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <a href="https://github.com/nuhyurdev">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhyurdev&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
@@ -57,7 +57,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/nuh-yurduseven/"  target="_blank" rel="noopener noreferrer">
   <img  alt="noaahhh's Linkdein" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
- <a target="_blank" href="https://www.twitter.com/nuhyurdAI/"  target="_blank" rel="noopener noreferrer">
+ <a target="_blank" href="https://www.twitter.com/nuhyurdev/"  target="_blank" rel="noopener noreferrer">
   <img  alt="noaahhh's Linkdein" width="30px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
 </a>
 <a target="_blank" href="https://dev.to/noaahhh"  target="_blank" rel="noopener noreferrer">
