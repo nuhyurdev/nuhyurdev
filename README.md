@@ -65,7 +65,7 @@
   <!-- API Testing -->
   <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Insomnia-purple
-" alt="Insomnia"/>
+  "alt="Insomnia"/>
 
   <!-- Business Intelligence & Analytics -->
   <img src="https://superset.apache.org/img/superset-logo-horiz.svg" alt="Apache Superset" width="100" hight=""/>
@@ -75,13 +75,16 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React.js" width="40" height="40"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="100" height="40"/>
 </p>
+
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
+  
   <a href="https://github.com/nuhyurdev">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuhyurdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
   </a>
+  
   <a href="https://github.com/nuhyurdev">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuhyurdev&theme=vue-dark&hide_border=true"/>
   </a>
@@ -89,6 +92,7 @@
   <a href="https://github.com/nuhyurdev">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhyurdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
   </a>
+
 </p>
 
 ---
