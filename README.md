@@ -81,19 +81,29 @@
 ### 📈 GitHub Stats
 <p align="center">
   
+  <!-- GitHub Stats -->
   <a href="https://github.com/nuhyurdev">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuhyurdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
   </a>
-  
+  </p>
+
+  <br/><br/> <!-- Add space between stats -->
+  <p align="center">
+
+  <!-- GitHub Streak Stats -->
   <a href="https://github.com/nuhyurdev">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuhyurdev&theme=vue-dark&hide_border=true"/>
   </a>
-  
+  </p>
+
+  <br/><br/> <!-- Add space between stats -->
+
+  <p align="center">
+  <!-- Top Languages -->
   <a href="https://github.com/nuhyurdev">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhyurdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
   </a>
-
-</p>
+  </p>
 
 ---
 
