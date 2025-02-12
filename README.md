@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nuh-yurduseven/"> <img src="https://img.shields.io/badge/LinkedIn-Nuh%20Yurduseven-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"> </a>
-  <a href="https://www.twitter.com/noaahhtr/"> <img src="https://img.shields.io/badge/Twitter-%40nuhyurdev-blue?logo=twitter&style=for-the-badge" alt="Twitter"> </a>
+  <a href="https://www.twitter.com/noaahhtr/"> <img src="https://img.shields.io/badge/Twitter-%40noaahhtr-blue?logo=twitter&style=for-the-badge" alt="Twitter"> </a>
 </p>
 
 ---
