@@ -3,117 +3,118 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nuh-yurduseven/"> <img src="https://img.shields.io/badge/LinkedIn-Nuh%20Yurduseven-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"> </a>
-  <a href="https://www.twitter.com/noaahhtr/"> <img src="https://img.shields.io/badge/Twitter-%40noaahhtr-blue?logo=twitter&style=for-the-badge" alt="Twitter"> </a>
+  <a href="https://www.linkedin.com/in/nuh-yurduseven/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nuh%20Yurduseven-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://www.twitter.com/noaahhtr/">
+    <img src="https://img.shields.io/badge/Twitter-%40noaahhtr-blue?logo=twitter&style=for-the-badge" alt="Twitter">
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
-✔ I am [Nuh Yurduseven](https://www.linkedin.com/in/nuh-yurduseven/) 😊. <br/>
-✔ Enthusiastic about **technology**, **open-source**, and **data engineering**. <br/>
-✔ Currently working on **Data Science**, **AI**, **GNU/Linux**, and **Big Data**. <br/>
+### � About Me
+- I am [Nuh Yurduseven](https://www.linkedin.com/in/nuh-yurduseven/), a passionate technologist with a keen interest in **data engineering**, **open-source**, and **AI**.
+- Currently, I am focusing on **Data Science**, **Artificial Intelligence**, **GNU/Linux**, and **Big Data** technologies.
+- I thrive on solving complex problems and building scalable, efficient systems.
 
 ---
 
-## 🛠 Languages & Tools
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/60074102?s=280&v=4" alt="JBang" width="40" height="40"/>
+## 🛠️ Tech Stack
 
-  <!-- Backend Frameworks & APIs -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" alt="FastAPI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/quarkus/quarkus.png" alt="Quarkus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" width="40" height="40"/>
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![JBang](https://img.shields.io/badge/-JBang-FF0000?logo=java&logoColor=white)
 
-  <!-- Databases & Data Streaming -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Clickhouse.png/220px-Clickhouse.png" alt="ClickHouse" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/neo4j/neo4j.png" alt="Neo4j" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis" width="40" height="40"/>
-  <img src="https://logosandtypes.com/wp-content/uploads/2020/07/kafka.png" alt="Apache Kafka" width="40" height="40"/>
-  <img src="https://images.ctfassets.net/8vofjvai1hpv/4RH5zEhiCXylodE1ohCb69/0d8d934e7c15a5bd9fbfd75874e0d50d/Kafka_Connect1.png" alt="Kafka Connect" width="50" height="40"/>
+### Backend Frameworks & APIs
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?logo=quarkus&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 
-  <!-- DevOps & Cloud Tools -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcl4nb7bx7Jif1Nsup0Fdae7kzKFiXSto2uQ&s" alt="Apache Camel" width="40" height="40"/>
+### Databases & Data Streaming
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC00?logo=clickhouse&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white)
+![Kafka Connect](https://img.shields.io/badge/-Kafka%20Connect-000000?logo=apache-kafka&logoColor=white)
 
-  <!-- Data Science & Machine Learning -->
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/apache-spark.png" alt="PySpark" width="40" height="40"/>
-  <img src="https://ollama.com/public/ollama.png" alt="Ollama" width="40" height="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Transformer.js" width="40" height="40"/>
-  <img src="https://mljar.com/images/logo/logo_blue_white.svg" alt="MLJAR Mercury" width="40" height="40"/>
+### DevOps & Cloud Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Apache Camel](https://img.shields.io/badge/-Apache%20Camel-FF0000?logo=apache&logoColor=white)
 
-  <!-- Monitoring & Performance Testing -->
-  <img src="https://github.com/prometheus/prometheus/raw/main/documentation/images/prometheus-logo.svg" alt="Prometheus" width="40" height="40"/>
-  <img src="https://github.com/grafana/grafana/raw/main/docs/logo-horizontal-dark.png#gh-dark-mode-only" alt="Grafana" width="100" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/2641063?s=200&v=4" alt="Locust" width="40" height="40"/>
-  <img src="https://github.com/grafana/k6/raw/master/assets/logo.svg" alt="k6" width="40" height="40"/>
+### Data Science & Machine Learning
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=white)
+![MLJAR Mercury](https://img.shields.io/badge/-MLJAR%20Mercury-000000?logo=mljar&logoColor=white)
 
-  <!-- API Testing -->
-  <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Insomnia-purple
-  "alt="Insomnia"/>
+### Monitoring & Performance Testing
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+![Locust](https://img.shields.io/badge/-Locust---?logo=python)
+![k6](https://img.shields.io/badge/-k6-000000?logo=k6&logoColor=white)
 
-  <!-- Business Intelligence & Analytics -->
-  <img src="https://superset.apache.org/img/superset-logo-horiz.svg" alt="Apache Superset" width="100" hight=""/>
-  <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="DBeaver" width="40" height="40"/>
+### API Testing
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white)
 
-  <!-- Frontend & UI Development -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React.js" width="40" height="40"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="100" height="40"/>
-</p>
+### Business Intelligence & Analytics
+![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-000000?logo=apache-superset&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-000000?logo=dbeaver&logoColor=white)
+
+### Frontend & UI Development
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  
-  <!-- GitHub Stats -->
   <a href="https://github.com/nuhyurdev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuhyurdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuhyurdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
-  </p>
+</p>
 
-  <br/><br/> <!-- Add space between stats -->
-  <p align="center">
-
-  <!-- GitHub Streak Stats -->
+<p align="center">
   <a href="https://github.com/nuhyurdev">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuhyurdev&theme=vue-dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhyurdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
   </a>
-  </p>
-
-  <br/><br/> <!-- Add space between stats -->
-
-  <p align="center">
-  <!-- Top Languages -->
-  <a href="https://github.com/nuhyurdev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhyurdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-  </a>
-  </p>
+</p>
 
 ---
 
-### 💏 Reach Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/nuh-yurduseven/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30px"/> </a>
-  <a href="https://www.twitter.com/noaahhtr/"> <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" width="30px"/> </a>
-  <a href="https://dev.to/noaahhh"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="Dev.to" width="30px"/> </a>
-  <a href="https://nuh-yurduseven.medium.com"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="Medium" width="30px"/> </a>
-  <a href="https://nuhyurduseven.hashnode.dev"> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Hashnode" width="30px"/> </a>
-  <a href="https://hackernoon.com/u/noaahhh"> <img src="https://cdn.hackernoon.com/images/avatars/InxBRjRIs6M1kdhuWcyNHiiUrxm1.jpg" alt="Hackernoon" width="30px"/> </a>
-</p>
+### 📫 Reach Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/nuh-yurduseven/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://www.twitter.com/noaahhtr/">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge" alt="Twitter">
+  </a>
+  <a href="https://dev.to/noaahhh">
+    <img src="https://img.shields.io/badge/Dev.to-Read-black?logo=dev.to&style=for-the-badge" alt="Dev.to">
+  </a>
+  <a href="https://nuh-yurduseven.medium.com">
+    <img src="https://img.shields.io/badge/Medium-Follow-black?logo=medium&style=for-the-badge" alt="Medium">
+  </a>
+  <a href="https://nuhyurduseven.hashnode.dev">
+    <img src="https://img.shields.io/badge/Hashnode-Read-2962FF?logo=hashnode&style=for-the-badge" alt="Hashnode">
+  </a>
+  <a href="https://hackernoon.com/u/noaahhh">
+    <img src="https://img.shields.io/badge/Hackernoon-Read-00FF00?logo=hackernoon&style=for-the-badge" alt="Hackernoon">
+  </a>
+</p>
